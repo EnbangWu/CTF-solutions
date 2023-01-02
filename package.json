@@ -1,0 +1,22 @@
+{
+  "name": "ethernaut",
+  "version": "1.0.0",
+  "description": "this is the package required to solve the ethernaut challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnbangWu/CTF-solutions.git"
+  },
+  "keywords": [
+    "Etheranut"
+  ],
+  "author": "Enbang Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnbangWu/CTF-solutions/issues"
+  },
+  "homepage": "https://github.com/EnbangWu/CTF-solutions#readme"
+}
